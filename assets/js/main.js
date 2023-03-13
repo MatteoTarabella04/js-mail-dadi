@@ -32,6 +32,7 @@ const finalMessageEl = document.getElementById('message');
 const btnEl = document.getElementById('subBtn');
 
 btnEl.addEventListener('click', function () {
+   
    // verifico se la mail inserita corrisponde alla lista
    if (allowMails.includes(userInputMailEl.value)) {
 
