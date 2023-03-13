@@ -1,0 +1,9 @@
+body {
+   text-align: center;
+   font-family: sans-serif;
+}
+
+button {
+   background-color: rgb(236, 147, 30);
+   padding: 0.5rem;
+}
